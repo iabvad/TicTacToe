@@ -21,7 +21,5 @@ Players take turns entering their moves by specifying the position they want to 
 The game alternates between players until one of them wins or the game ends in a draw.
 After each game, the scores are displayed, and players can choose to play again.
 
-**Authors**
-
-David and Mahamad
+**Authors:** David and Mahamad
 
