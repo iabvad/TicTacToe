@@ -1,13 +1,16 @@
-# TicTacToe
+# tic-tac-toe
 
-This is a simple console-based Tic Tac Toe game implemented in Java. The game allows two players to take turns placing their symbols (X or O) on a 3x3 grid. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game. If all cells are filled without a winner, the game ends in a draw.
+This is a simple console-based Tic Tac Toe game implemented in Java. The game allows two players to take
+turns placing their symbols (X or O) on a 3x3 grid. The first player to get three of their symbols in a row 
+(horizontally, vertically, or diagonally) wins the game. If all cells are filled without a winner, the game 
+ends in a draw.
 
 **Features**
 
-1. **Two Players:** Play against a friend in a turn-based fashion.
-2. **Console Interface:** The game runs entirely in the console, making it easy to play anywhere.
-3. **Randomized First Player:** The game randomly selects the starting player for each new game.
-4. **Score Tracking:** Keeps track of each player's score throughout multiple games.
+  - **Two Players:** Play against a friend in a turn-based fashion.
+  -    **Console Interface:** The game runs entirely in the console, making it easy to play anywhere.
+  - **Randomized First Player:** The game randomly selects the starting player for each new game.
+  - **Score Tracking:** Keeps track of each player's score throughout multiple games.
 
 **How to Play**
 
