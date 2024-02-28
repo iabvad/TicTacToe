@@ -1,5 +1,7 @@
 # tic-tac-toe
 
+**Description**
+
 This is a simple console-based Tic Tac Toe game implemented in Java. The game allows two players to take
 turns placing their symbols (X or O) on a 3x3 grid. The first player to get three of their symbols in a row 
 (horizontally, vertically, or diagonally) wins the game. If all cells are filled without a winner, the game 
