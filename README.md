@@ -4,10 +4,10 @@ This is a simple console-based Tic Tac Toe game implemented in Java. The game al
 
 **Features**
 
-Two Players: Play against a friend in a turn-based fashion.
-Console Interface: The game runs entirely in the console, making it easy to play anywhere.
-Randomized First Player: The game randomly selects the starting player for each new game.
-Score Tracking: Keeps track of each player's score throughout multiple games.
+1. **Two Players:** Play against a friend in a turn-based fashion.
+2. **Console Interface:** The game runs entirely in the console, making it easy to play anywhere.
+3. **Randomized First Player:** The game randomly selects the starting player for each new game.
+4. **Score Tracking:** Keeps track of each player's score throughout multiple games.
 
 **How to Play**
 
@@ -17,5 +17,6 @@ The game alternates between players until one of them wins or the game ends in a
 After each game, the scores are displayed, and players can choose to play again.
 
 **Authors**
+
 David and Mahamad
 
